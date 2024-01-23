@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.dimops.com](https://www.dimops.com)
 
-- 😄 Fun fact: I love Sports(⚽️), Codeing(💻), Traveling(🌍), and Alpinism(🏔️).
+- 😄 Fun fact: I love Sports(⚽️), Coding(💻), Traveling(🌍), and Alpinism(🏔️).
 
 - 💬 Ask me about **DevOps**
 
