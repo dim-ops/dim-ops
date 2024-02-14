@@ -39,8 +39,7 @@
 
 <summary>📈 My GitHub Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dim-ops&show_icons=true&theme=gotham" alt="DimOps" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=dim-ops&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim-ops&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:42%" />
 <br>
 
 **Connect with me:**
