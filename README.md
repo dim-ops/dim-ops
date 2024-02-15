@@ -39,9 +39,15 @@
 
 <summary>📈 My GitHub Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dim-ops&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim-ops&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:42%" />
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
 **Connect with me:**
 
 <a href="https://www.dimops.com"><img src="https://img.shields.io/badge/-dimops.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
