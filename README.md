@@ -40,14 +40,15 @@
 <summary>📈 My GitHub Stats</summary>
 <br>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="dim-ops" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dim-ops" /></p>
+
 **Connect with me:**
 
 <a href="https://www.dimops.com"><img src="https://img.shields.io/badge/-dimops.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
