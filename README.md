@@ -46,7 +46,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-lyart-pi-42.vercel.app/api?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats-lyart-pi-42.vercel.app/api?username=dim-ops"
     alt="dim-ops" /></p>
 
 **Connect with me:**
