@@ -43,11 +43,8 @@
     src="https://github-readme-stats-git-master-dim-ops-projects.vercel.app/api/top-langs?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
     alt="dim-ops" 
     bg_color=#808080/></p>
-
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-dim-ops-projects.vercel.app/api?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="dim-ops" /></p>
+<p><img align="center" src="https://github-readme-stats-git-master-dim-ops-projects.vercel.app/api?username=dim-ops&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&hide=html"    alt="dim-ops" /></p>
 
 **Connect with me:**
 
