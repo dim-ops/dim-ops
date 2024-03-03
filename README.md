@@ -12,7 +12,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Golang.
+- 🌱 Constantly improving my Golang skills
 
 - 📝 I regularly write articles on [https://www.dimops.com](https://www.dimops.com)
 
